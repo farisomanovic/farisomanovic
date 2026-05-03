@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there, I'm Faris! 👋
 
-<!--
-**farisomanovic/farisomanovic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 IT Student | Aspiring Data Scientist | Competitive Programmer
 
-Here are some ideas to get you started:
+I am a first-year Information Technologies student at **International Burch University** with a passion for data-driven insights and algorithmic problem-solving.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🏆 **BHOI Top 20** Nationally (Bosnian-Herzegovinian Olympiad in Informatics).
+- 🎓 **Valedictorian** of my high school class.
+- 🛠️ Currently building a **Production Management System** using React, PostgreSQL, and Prisma.
+
+---
+
+### 💻 Tech Stack
+
+- **Languages:** C++, Python, JavaScript, Java
+- **Web:** React, HTML, CSS, Axios
+- **Databases:** PostgreSQL, Prisma ORM, SQL
+- **Core:** Algorithms & Data Structures, Functional Programming
+
+---
+
+### 📫 Reach Me
+- 💼 [LinkedIn](https://linkedin.com/in/farisomanovic)
+- 📧 faris.omanovic.fo@gmail.com
