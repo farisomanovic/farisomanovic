@@ -4,7 +4,7 @@
 
 I am a first-year Information Technologies student at **International Burch University** with a passion for data-driven insights and algorithmic problem-solving.
 
-- 🏆 **BHOI Top 20** Nationally (Bosnian-Herzegovinian Olympiad in Informatics).
+- 🏆 **BHOI Top 25** Nationally (Bosnian-Herzegovinian Olympiad in Informatics 2025).
 - 🎓 **Valedictorian** of my high school class.
 - 🛠️ Currently building a **Production Management System** using React, PostgreSQL, and Prisma.
 
